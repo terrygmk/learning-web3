@@ -4,5 +4,5 @@
 
 ## html css
 
-- 通过编写咖啡店菜单学习基础 CSS, 已完成
-    - [代码](./responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) [展示](https://terrygmk.github.io/learing-web3/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
+- 通过编写咖啡店菜单学习基础CSS
+    -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
