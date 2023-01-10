@@ -1,5 +1,11 @@
 * {
+    /* 实现响应式布局时,方便计算 元素宽度 =  width = border + padding + 内容的宽度 */
     box-sizing: border-box;
+    /* 
+    默认
+    box-sizing: content-box;
+    元素的宽度 = width（内容的宽度） + border + padding 不利于计算
+    */
   }
   
   body {
@@ -18,11 +24,17 @@
   }
   
   .gallery {
+    /* 弹性布局 */
     display: flex;
+    /* 主轴设为行 */
     flex-direction: row;
+    /* 动态换行 */
     flex-wrap: wrap;
+    /* 所有元素当作一个整体，主轴居中对齐 */
     justify-content: center;
+    /* 所有元素当作一个整体，交叉轴居中对齐，一般在容器交叉轴方向的长度固定时起作用。 */
     align-items: center;
+    /* 是行和列之间的空白 */
     gap: 16px;
     max-width: 1400px;
     margin: 0 auto;
@@ -33,12 +45,17 @@
     width: 100%;
     max-width: 350px;
     height: 300px;
+    /* 图片保持横纵比，防失真 */
     object-fit: cover;
+    /* 圆角，使平滑 */
     border-radius: 10px;
   }
   
+  /* ::after 用来创建一个伪元素 在最后一个图像后添加一个空元素 */
   .gallery::after {
+    /* 不显示内容 */
     content: "";
+    /* 占空间和前面元素一样 */
     width: 350px;
   }
   

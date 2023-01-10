@@ -21,9 +21,9 @@
 
         ```css
         .item p {
-        display: inline-block; /* 俩个p 要在同一行展示, p设置为行内块元素 */
-        margin: 5px auto;
-        font-size: 18px;
+            display: inline-block; /* 俩个p 要在同一行展示, p设置为行内块元素 */
+            margin: 5px auto;
+            font-size: 18px;
         }
         ```
 
@@ -59,6 +59,7 @@
 
 - hr 水平线 
     - `实体`展示
+    
         ```css
         hr {
             height: 2px;
