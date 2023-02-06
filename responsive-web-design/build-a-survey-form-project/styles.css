@@ -1,0 +1,38 @@
+
+body{
+    
+}
+
+#containter {
+    width: 60vw;
+    margin: 0 auto;
+}
+
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+label, select, textarea {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+input, select, textarea {
+    width: 100%;
+    margin: 0.5em 0;
+    min-height: 2em;
+}
+
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+}
