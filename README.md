@@ -4,6 +4,8 @@
 
 ## html css
 
+- 通过编写猫咪相册应用学习 `HTML`
+     -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-html-by-building-a-cat-photo-app/) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-html-by-building-a-cat-photo-app/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 - 通过编写咖啡店菜单学习`基础CSS`
     -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
 - 通过编写注册表单学习 HTML 表单
