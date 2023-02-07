@@ -1,7 +1,5 @@
 
 # 通过编写猫咪相册应用学习 HTML
-index.htmleditor
-
 
 - 开始标签与结束标签
     - 元素的内容在元素的开始标签和结束标签之间。
@@ -33,6 +31,7 @@ index.htmleditor
             - 让屏幕阅读器可以知晓图片的内容
             - 当图片无法加载时，页面需要显示的替代文本
     - input元素
+    - meta
 - 内联元素
     - input
     - button
