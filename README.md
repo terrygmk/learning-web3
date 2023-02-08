@@ -31,5 +31,8 @@
 
 - 通过编写小测验学习无障碍
     > 无障碍环境正在使你的网页便于所有人使用——甚至是残疾人。在这个课程中，你将建立一个测验网页。你将学习诸如键盘快捷键、ARIA 属性和设计最佳实践等无障碍工具。
+    -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-accessibility-by-building-a-quiz/) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-accessibility-by-building-a-quiz/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1)
 
 - freecodecamp认证项目 致敬页
+
+- 通过构建资产负债表了解有关 CSS 伪选择器的更多信息

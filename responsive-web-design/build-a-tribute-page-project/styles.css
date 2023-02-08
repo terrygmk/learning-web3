@@ -1,0 +1,63 @@
+html {
+    /* Setting a base font size of 10px give us easier rem calculations
+         Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
+       */
+    font-size: 10px;
+  }
+body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+}
+
+main {
+    background: #eee;
+    margin: 30px 8px;
+    border-radius: 50px;
+    padding: 50px;
+}
+/* 当浏览器宽度不超过460像素时，#main元素的margin值设置为0。 */
+@media (max-width: 460px) {
+    #main {
+        margin: 0;
+    }
+}
+
+h1 {
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+}
+
+figure {
+    background-color: white;
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 10px auto;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+section {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+section h3 {
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
