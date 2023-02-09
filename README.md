@@ -34,5 +34,12 @@
     -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-accessibility-by-building-a-quiz/) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-accessibility-by-building-a-quiz/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1)
 
 - freecodecamp认证项目 致敬页
+    -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/build-a-tribute-page-project) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/build-a-tribute-page-project/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/build-a-tribute-page-project/step-1)
+
 
 - 通过构建资产负债表了解有关 CSS 伪选择器的更多信息
+
+- 创建一副毕加索绘画来学习中级 CSS
+
+- 通过创建一架钢琴来学习响应式网页设计
+    - 响应式设计使得你的网页适应不同屏幕尺寸的显示。在本课程中，你将围绕一架钢琴编写代码学习 CSS 响应式设计。你将同时学会媒体条件和伪选择器的知识。
