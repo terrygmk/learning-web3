@@ -45,3 +45,8 @@
     - 响应式设计使得你的网页适应不同屏幕尺寸的显示。在本课程中，你将围绕一架钢琴编写代码学习 CSS 响应式设计。你将同时学会媒体条件和伪选择器的知识。
 
 - freecodecamp认证项目 技术文档页
+
+- 通过建立城市轮廓学习 CSS 变量
+    -   -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-css-variables-by-building-a-city-skyline) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-css-variables-by-building-a-city-skyline/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/step-1)
+
+- 通过创建杂志学习 CSS 网格布局
