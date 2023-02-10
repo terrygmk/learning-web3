@@ -47,6 +47,8 @@
 - freecodecamp认证项目 技术文档页
 
 - 通过建立城市轮廓学习 CSS 变量
-    -   -  [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-css-variables-by-building-a-city-skyline) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-css-variables-by-building-a-city-skyline/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/step-1)
+    - [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-css-variables-by-building-a-city-skyline) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-css-variables-by-building-a-city-skyline/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/step-1)
 
 - 通过创建杂志学习 CSS 网格布局
+    - 在网页设计时，CSS 网格布局使你能够控制网页的行、列。
+    - [代码](https://github.com/terrygmk/learning-web3/tree/main/responsive-web-design/learn-css-grid-by-building-a-magazine) [展示](https://terrygmk.github.io/learning-web3/responsive-web-design/learn-css-grid-by-building-a-magazine/) [教程](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)

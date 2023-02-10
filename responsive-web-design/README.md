@@ -1,4 +1,15 @@
 
+## HTML
+
+### 属性
+
+- loading="lazy"
+    - 告诉浏览器在需要（例如，当用户将图像滚动到视图中时）的时候才获取图像资源
+- a rel="noreferrer"
+    - 告诉浏览器 省图 来源信息
+
+## CSS
+
 - 边框辅助设计，
     ```css
     * {
@@ -53,5 +64,23 @@
             #445 21%,
             #223 100%
         );
+    }
+    ```
+
+- 伪类
+    - ::first-letter
+    ```css
+    .first-paragraph::first-letter{
+        font-size : 6rem;
+        color:orangered;
+    }
+    ```
+    - ::before ::after
+    ```css
+    .quote::before{
+        content:'" ';
+    }
+    .quote::after{
+        content:' "';
     }
     ```
